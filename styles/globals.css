@@ -24,3 +24,18 @@ a {
     background: black;
   }
 }
+.profile-avatar {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.profilecard {
+  max-width: 300px;
+  margin: auto;
+  padding: 35px;
+  box-shadow: 1px 1px 8px #00000024;
+  margin-bottom: 30px;
+  border-radius: 12px;
+  text-align: center;
+}
